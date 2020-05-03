@@ -4,10 +4,10 @@ An adapter which lets you attach the Raspberry Pi HQ Camera to the back of a Pim
 
 Very handy if you are going to be using your HQ camera for some astrophotography
 
-![Photo.JPG](https://github.com/PaulZC/HQ_Camera_to_Pibow_Adapter/blob/master/img/Photo.JPG)
+![Photo.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Photo.JPG)
 
-![Top.JPG](https://github.com/PaulZC/HQ_Camera_to_Pibow_Adapter/blob/master/img/Top.JPG)
-![Bottom.JPG](https://github.com/PaulZC/HQ_Camera_to_Pibow_Adapter/blob/master/img/Bottom.JPG)
+![Top.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Top.JPG)
+![Bottom.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Bottom.JPG)
 
 ## Repository Contents
 
@@ -27,7 +27,7 @@ You may need to edit the .scad file and increase the diameter of the holes depen
 
 ## Licence
 
-This project is distributed under an [MIT License](https://github.com/PaulZC/HQ_Camera_to_Pibow_Adapter/blob/master/LICENSE)
+This project is distributed under an [MIT License](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/LICENSE)
 
 ## Acknowledgements
 
