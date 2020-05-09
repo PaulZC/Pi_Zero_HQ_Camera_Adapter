@@ -6,6 +6,8 @@ Very handy if you are going to be using your HQ camera for some astrophotography
 
 ![Photo.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Photo.JPG)
 
+![Photo2.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Photo2.JPG)
+
 ![Top.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Top.JPG)
 ![Bottom.JPG](https://github.com/PaulZC/Pi_Zero_HQ_Camera_Adapter/blob/master/img/Bottom.JPG)
 
